@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: lesliesam96/simple-website:mytask1
+          tags: lesliesamantha/simple-website:mytask1
